@@ -1,0 +1,9 @@
+{
+	"id": "user",
+	"passowrd": "$5$mGfhd8c1X458ifmM$Y1yNiCjLBol5PFUeJ3tmqZlLrA.VWvhrKssQoGHOsY.",
+	"uid": 1001,
+	"groups": ["wheel", "dev"],
+	"ssh_keys": [
+		"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCy/6MrsO/nFjolGF/a/PUDE8PQQU8SRJwSIt2R+yL2e5gYV3RsWATJl1K6hlxCF5QFkHuds3k2OkGfe1c2jd/7Si6LSciv13PuDk7+5EpSUGgwu4n4jhm1em4g6gUlvbKvjCkU2R5P80XUbKYFLYqu9WDdO/aKDMyMbDfEUID5pzG8PC45YNAzzGmBpil/iB+nUFOcrfdksxZuOOyYqHnpyrAa7d7rRxfT7cWSmwt6y4zbTtoqHAAwvj5FfzHUkLPz00VyrKS7Sp2TFHY2ieaOvBTRG/JjVkuFas0Pxq4SffKIMLGZcOBiohxdfL9jGbt6bvJhirXf0mwQmZkNTZIp chuks@yahoo.com"
+		]
+}
