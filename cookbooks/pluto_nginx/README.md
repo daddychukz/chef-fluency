@@ -1,3 +1,3 @@
-# bcf_nginx
+# pluto_nginx
 
 Installs and configures NGINX
